@@ -5,7 +5,7 @@ I will be a ML developer
 eg: That is my first try to create a good github profile, and therefore do not judge strictly;) I study at SPBGPU on "Math and computer science" direction, at the first year(out of four).
 * 🌍  I'm based in SPB 
 * ✉️  You can contact me at [gzoloev228@gmail.com](mailto:gzoloev228@gmail.com)
-* 🧠  I'm learning Pandas at the moment
+* 🧠  I'm learning Gradient Boosting at the moment
 
 ### Skills  
 
