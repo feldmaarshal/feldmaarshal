@@ -6,7 +6,7 @@ eg: That is my first try to create a good github profile, and therefore do not j
 * 🌍  I'm based in SPB 
 * ✉️  You can contact me at [gzoloev228@gmail.com](mailto:gzoloev228@gmail.com)
 * 🧠  I'm learning NLP at the moment
-* 
+
 ### Work Experience
 * 💼  I work at Reffection as a Junior AI/ML Developer
 
