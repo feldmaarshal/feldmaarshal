@@ -1,11 +1,11 @@
-Hi 👋 My name is Georgy Zoloev!
+Hi 👋 My name is George Zoloev!
 =============================== 
 I'm AI/ML developer
 ------------------------  
-eg: That is my first try to create a good github profile, and therefore do not judge strictly;) I study at SPBGPU on "Math and Сomputer science" direction, at the third year(out of four).
+I study at SPBGPU on "Math and Сomputer science" direction, at the third year(out of four).
 * 🌍  I'm based in SPB 
 * ✉️  You can contact me at [gzoloev228@gmail.com](mailto:gzoloev228@gmail.com)
-* 🧠  I'm learning NLP at the moment
+* 🧠  I'm learning LLM quantization at the moment
 
 ### Work Experience
 * 💼  I work at Reffection as a Junior AI/ML Developer
