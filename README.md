@@ -8,7 +8,7 @@ I study at SPBGPU on "Math and Сomputer science" direction, at the third year(o
 * 🧠  I'm learning LLM quantization at the moment
 
 ### Work Experience
-* 💼  I work at Reffection as a Junior AI/ML Developer
+* 💼  I work at Reffection as a AI/ML Developer
 
 ### Skills  
 
