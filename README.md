@@ -1,8 +1,8 @@
-Hi 👋 My name is George Zoloev!
+Hi 👋 My name is Georgy Zoloev!
 =============================== 
-I'm AI/ML developer
+I'm NLP Data Scientist developer
 ------------------------  
-I study at SPBGPU on "Math and Сomputer science" direction, at the fourth year(out of four).
+I study at SPBPU on "Math and Сomputer science" direction, at the fourth year(out of four).
 * 🌍  I'm based in SPB 
 * ✉️  You can contact me at [zolgeorgeai@gmail.com](mailto:zolgeorgeai@gmail.com)
 * 🧠  I'm learning LLM quantization at the moment
@@ -16,4 +16,4 @@ I study at SPBGPU on "Math and Сomputer science" direction, at the fourth year(
 
 ### Socials 
 
-<p align="left"> <a href="https://www.github.com/feldmaarshal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/feldmaarshal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/feldmaarhsal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/feldmaarshal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/feldmaarhsal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
