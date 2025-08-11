@@ -2,13 +2,13 @@ Hi 👋 My name is George Zoloev!
 =============================== 
 I'm AI/ML developer
 ------------------------  
-I study at SPBGPU on "Math and Сomputer science" direction, at the third year(out of four).
+I study at SPBGPU on "Math and Сomputer science" direction, at the fourth year(out of four).
 * 🌍  I'm based in SPB 
-* ✉️  You can contact me at [gzoloev228@gmail.com](mailto:gzoloev228@gmail.com)
+* ✉️  You can contact me at [zolgeorgeai@gmail.com](mailto:zolgeorgeai@gmail.com)
 * 🧠  I'm learning LLM quantization at the moment
 
 ### Work Experience
-* 💼  I work at Reffection as a AI/ML Developer
+* 💼  I work at Честный Знак as a NLP Data Scientist
 
 ### Skills  
 
